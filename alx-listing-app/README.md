@@ -13,7 +13,7 @@ The ALX Listing App aims to replicate the core functionality of Airbnb's propert
 - **Type Safety**: Full TypeScript integration for reliable, maintainable code
 - **Modern UI/UX**: Clean, intuitive interface using Tailwind CSS
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 alx-listing-app/
